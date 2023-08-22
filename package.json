@@ -1,0 +1,9 @@
+{
+    "name": "com.nlua.nlua",
+    "displayName": "NLua",
+    "version": "1.0.0",
+    "author" : {
+        "name": "NLua",
+        "url": "https://github.com/NLua/NLua"
+    }
+}
